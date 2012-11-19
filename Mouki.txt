@@ -1,6 +1,21 @@
+Calendrier prévisionnel des remises :
+    Fin de la 2ème séance de TD de la semaine 47 (19 au 23 novembre 2012)
+        MOT actuel
+        MOT nouveau
 
-C
-C
-C
-A
-TROLOLOL
+    Fin de la 2ème séance de TD de la semaine 49 (3 au 7 decembre 2012) :
+        Diagramme des UC
+        Maquette des nouveaux résultats (états imprimés, écrans…)
+        Architecture générale (MVC)
+        Diagramme des classes Métier et Diagramme des classes Contrôleur (sans opérations)
+
+    Fin de la 2ème séance de TD de la semaine 51 (17 au 21 décembre 2012) :
+        SNI
+        DSS pour 2 C.U.
+        DS et DCP pour 1 ou 2 CU
+    
+    Fin de la 2ème séance de TD de la semaine 3 (14 au 18 janvier 2013) :
+        SEF
+        Dessins de 2 boîtes de dialogue complexes
+
+Le dossier final sera à remettre la semaine 4 (du 21 au 25 janvier 2012).
