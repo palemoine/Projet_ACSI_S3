@@ -1,0 +1,7 @@
+Pour commit un changement :
+cd /[repository git]
+git status 
+git add [nom du fichier ajouté et placé dans le dossier]
+git commit -am "Ajoute le [fichier]"
+git pull
+git push
